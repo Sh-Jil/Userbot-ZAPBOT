@@ -19,7 +19,7 @@ $ sudo pip3 install selenium
 With everything installed,  we will clone the repository like this:
 
 ```
-$ git clone https://github.com/VycktorStark/Userbot-ZAPBOT.git
+$ git clone https://github.com/Sh-Jil/Userbot-ZAPBOT.git
 
 ```
 
